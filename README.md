@@ -1,35 +1,67 @@
-# Resume
+# Daniel Tataev
+**Phone:** 647-551-2245 | **Email:** [datataev@gmail.com](mailto:datataev@gmail.com)  
+**Address:** 3132 Dayanee Springs Blvd, Coquitlam, BC, V3E 0B5  
 
-CV/Resume
-Work Experience
-July 2019 - present: Data Scientist Product Analytics, Egencia
-Currently part of American Express Global Business Travel, formerly part of Expedia Group
-Partner with product managers, software engineers, UX/design to evaluate the user experience and identify opportunities for improvement via advanced analysis, A/B tests, and machine learning, using web analytics, transactional data, and client data.
-October 2016 - July 2019: Digital Marketing Analytics Manager, Brookfield Properties Retail
-Analyze the performance of B2C and B2B digital products (websites, mobile app, interactive directory kiosks) for 100+ shopping malls.
-June 2013 - October 2016: Digital Marketing Manager, Brookfield Properties Retail
-Website publishing subject matter expert, supporting 100+ mall websites, mobile app, and B2B website. Oversight for strategy, content, workflow, training, and analytics.
-January 2012 - June 2013: Digital Marketing Manager, Presence Health (now part of Ascension Health)
-Managed all owned digital marketing channels, including social media, email marketing, search engine marketing. Supervised Online Data Coordinator.
-Education
-M.S. in Data Science, DePaul University, June 2022
-Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
-Capstone Project: Analysis and predictive modeling for UtmostU, the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
-B.A. in Communication, Loyola University Chicago, May 2004
-Skills
-Python
-Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, scikit-surprise, SciPy, TensorFlow, Keras
-R
-Markdown, dplry, ggplot2, tidyr, tseries, lmtest, forecast
-SQL
-Tableau
-PowerBI
-Adobe Analytics
-Google Analytics
-Adobe Target
-Service and Leadership
-Organizer and Social Media Manager, MeasureCamp Chicago (2024 - present)
-WiDS Chicago Ambassador, Women in Data Science (2022 - present)
-Mentor/Mentee Organizer, Data Angels (2022 - present)
-UtmostU, the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021)
-Business Volunter for the Arts / Team Lead with the Arts & Business Council of Chicago (2011 - 2018)
+---
+
+## Professional Summary
+Highly motivated and results-driven Data and Analytics Professional with over 10 years of experience. Expertise in building and optimizing data processes to drive business impact and extract actionable insights from complex data. Skilled in developing and deploying analytical models, and communicating value through clear, impactful reports and dashboards.
+
+---
+
+## Work Experience
+
+### Data Analyst  
+**Canada Mortgage and Housing Corporation (CMHC) • Vancouver, BC**  
+_Feb 2019 - Present_  
+
+- Delivered high-quality reports, dashboards, and presentations to clearly communicate insights, outcomes, and strategic recommendations to senior management and external stakeholders.
+- Collaborated with stakeholders to translate complex business challenges into data and analytics solutions, leading to the development of predictive models that forecasted market shifts and customer behavior.
+- Visualized complex data through dashboards using SQL, Python, and Power BI. Streamlined reporting processes and empowered business leaders to make more informed decisions quickly.
+- Developed and deployed advanced analytical models to optimize the use of internal resources, resulting in a 15% improvement in staff year consumption and a 10% reduction in turnaround times.
+- Conducted in-depth analysis of market, economic, and mortgage financing trends, providing data-backed insights that informed key business strategies and influenced decision-making for multiple CMHC business lines.
+
+---
+
+### Product Manager  
+**Mircom Group of Companies • Toronto, ON**  
+_Nov 2016 - Feb 2019_  
+
+- Managed the implementation of marketing programs and initiatives, resulting in a 10% acceleration in sales growth for communications and fire alarm products.
+- Developed sales tools, price books, and dynamic dashboards to track key performance indicators (KPIs), enabling the sales team to make data-driven decisions and enhance client engagement.
+- Conducted market analysis using Databricks and Tableau, identifying trends and actionable insights that informed product differentiation and marketing strategies.
+- Collaborated with cross-functional teams to gather business requirements and translate them into actionable analytics solutions, streamlining the launch and execution of marketing plans for new products.
+
+---
+
+### Business Manager  
+**Lakberry.ru • Moscow, Russia**  
+_Jun 2013 - Dec 2015_  
+
+- Built a successful e-commerce cosmetics business from the ground up, achieving $150K in turnover and selling it to competitors after 3 years of profitable operation.
+- Managed external vendors, agencies, and freelancers, optimizing digital marketing strategies through SEO, PPC, SMM, and email campaigns to drive customer engagement and improve productivity.
+- Analyzed website performance, identifying and implementing business process improvements to optimize the purchasing funnel, which increased site traffic and achieved top 10 search rankings.
+- Conducted market research and negotiated with suppliers, aligning operational processes with business objectives to reduce costs and enhance customer service.
+
+---
+
+### Product Marketing Manager  
+**Philips • Moscow, Russia**  
+_Sep 2009 - Jan 2013_  
+
+- Conducted market analysis for consumer electronics products, identifying trends and opportunities for product upgrades and strategic direction, resulting in a $3M annual turnover.
+- Led the end-to-end product lifecycle, from conceptual design to market launch, for multiple versions of home audio systems, coordinating cross-functional teams and managing timelines.
+- Utilized both quantitative and qualitative research methods, including market surveys and focus groups, to gather insights on customer preferences and potential audience segments, informing future product development.
+- Monitored competitor products and marketing strategies, aligning product positioning and pricing with the latest market demands, and producing analysis reports to guide decision-making.
+
+---
+
+## Education
+
+**Bachelor of Economics, Marketing and Economics**  
+Moscow Academy of Economics and Law, Moscow, Russia  
+_Sep 2006 - Sep 2010_  
+
+**Certificate in Sales and Marketing**  
+Humber College, Toronto, ON, Canada  
+_Aug 2016 - Dec 2016_
